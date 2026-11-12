@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">Permet à l\'IA de Studo de lire l\'écran, toucher des boutons et écrire du texte dans d\'autres applications, uniquement quand tu lui demandes de piloter une application.</string>
+</resources>
